@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"strings"
 
-	"aosp/soong/android_aosp"
+	"aosep/soong/android_aosp"
 
 	"github.com/google/blueprint/proptools"
 )
